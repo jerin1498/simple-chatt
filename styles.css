@@ -1,0 +1,29 @@
+.container{
+    max-width: 600px;
+}
+.btn{
+    background: #43d9be;
+    color: white;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.btn:focus{
+    outline: none !important;
+}
+.username{
+    font-weight: bold;
+}
+.time{
+    font-size: 0.7em;
+    color: #999;
+}
+.chat-window ul li{
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgray;
+    padding: 25px;
+}
+.update-mssg{
+    text-align: center;
+    margin: 20px auto;
+}
